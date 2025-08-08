@@ -1,0 +1,812 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 0,
+          "broadcasts": [],
+          "competitors": [
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "home",
+              "id": "349",
+              "leaders": [
+                {
+                  "abbreviation": "PYDS",
+                  "displayName": "Passing Leader",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Bryson Daily",
+                        "fullName": "Bryson Daily",
+                        "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4879928.png",
+                        "id": "4879928",
+                        "jersey": "13",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/college-football/player/_/id/4879928/bryson-daily",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "shortName": "B. Daily",
+                        "team": {
+                          "id": "349"
+                        }
+                      },
+                      "displayValue": "3-6, 35 YDS",
+                      "team": {
+                        "id": "349"
+                      },
+                      "value": 35.0
+                    }
+                  ],
+                  "name": "passingLeader",
+                  "shortDisplayName": "PASS"
+                },
+                {
+                  "abbreviation": "RYDS",
+                  "displayName": "Rushing Leader",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Noah Short",
+                        "fullName": "Noah Short",
+                        "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5082142.png",
+                        "id": "5082142",
+                        "jersey": "15",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/college-football/player/_/id/5082142/noah-short",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "RB"
+                        },
+                        "shortName": "N. Short",
+                        "team": {
+                          "id": "349"
+                        }
+                      },
+                      "displayValue": "8 CAR, 83 YDS, 1 TD",
+                      "team": {
+                        "id": "349"
+                      },
+                      "value": 83.0
+                    }
+                  ],
+                  "name": "rushingLeader",
+                  "shortDisplayName": "RUSH"
+                },
+                {
+                  "abbreviation": "RECYDS",
+                  "displayName": "Receiving Leader",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Casey Reynolds",
+                        "fullName": "Casey Reynolds",
+                        "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4879965.png",
+                        "id": "4879965",
+                        "jersey": "87",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/college-football/player/_/id/4879965/casey-reynolds",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "WR"
+                        },
+                        "shortName": "C. Reynolds",
+                        "team": {
+                          "id": "349"
+                        }
+                      },
+                      "displayValue": "1 REC, 22 YDS",
+                      "team": {
+                        "id": "349"
+                      },
+                      "value": 22.0
+                    }
+                  ],
+                  "name": "receivingLeader",
+                  "shortDisplayName": "REC"
+                }
+              ],
+              "order": 0,
+              "records": [
+                {
+                  "abbreviation": "overall",
+                  "name": "overall",
+                  "summary": "1-0",
+                  "type": "total"
+                },
+                {
+                  "abbreviation": "Home",
+                  "name": "Home",
+                  "summary": "1-0",
+                  "type": "homerecord"
+                },
+                {
+                  "abbreviation": "Away",
+                  "name": "Away",
+                  "summary": "0-0",
+                  "type": "awayrecord"
+                },
+                {
+                  "abbreviation": "CONF",
+                  "name": "vs. Conf.",
+                  "summary": "0-0",
+                  "type": "vsconf"
+                }
+              ],
+              "score": "0",
+              "statistics": [],
+              "team": {
+                "abbreviation": "ARMY",
+                "alternateColor": "231f20",
+                "color": "ce9c00",
+                "conferenceId": "151",
+                "displayName": "Army Black Knights",
+                "id": "349",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/college-football/team/_/id/349/army-black-knights",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/_/id/349/army-black-knights",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "mobile",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/roster/_/id/349",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/stats/_/id/349",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/schedule/_/id/349",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Army",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
+                "name": "Black Knights",
+                "shortDisplayName": "Army",
+                "uid": "s:20~l:23~t:349",
+                "venue": {
+                  "id": "3841"
+                }
+              },
+              "type": "team",
+              "uid": "s:20~l:23~t:349"
+            },
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "away",
+              "id": "2426",
+              "order": 1,
+              "records": [
+                {
+                  "abbreviation": "overall",
+                  "name": "overall",
+                  "summary": "1-0",
+                  "type": "total"
+                },
+                {
+                  "abbreviation": "Home",
+                  "name": "Home",
+                  "summary": "1-0",
+                  "type": "homerecord"
+                },
+                {
+                  "abbreviation": "Away",
+                  "name": "Away",
+                  "summary": "0-0",
+                  "type": "awayrecord"
+                },
+                {
+                  "abbreviation": "CONF",
+                  "name": "vs. Conf.",
+                  "summary": "0-0",
+                  "type": "vsconf"
+                }
+              ],
+              "score": "0",
+              "statistics": [],
+              "team": {
+                "abbreviation": "NAVY",
+                "alternateColor": "b5a67c",
+                "color": "00225b",
+                "conferenceId": "151",
+                "displayName": "Navy Midshipmen",
+                "id": "2426",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/college-football/team/_/id/2426/navy-midshipmen",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/_/id/2426/navy-midshipmen",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "mobile",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/roster/_/id/2426",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/stats/_/id/2426",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/college-football/team/schedule/_/id/2426",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Navy",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
+                "name": "Midshipmen",
+                "shortDisplayName": "Navy",
+                "uid": "s:20~l:23~t:2426",
+                "venue": {
+                  "id": "3852"
+                }
+              },
+              "type": "team",
+              "uid": "s:20~l:23~t:2426"
+            }
+          ],
+          "conferenceCompetition": false,
+          "date": "2024-12-14T20:00Z",
+          "format": {
+            "regulation": {
+              "periods": 4
+            }
+          },
+          "geoBroadcasts": [],
+          "id": "401645383",
+          "leaders": [
+            {
+              "abbreviation": "PYDS",
+              "displayName": "Passing Leader",
+              "leaders": [
+                {
+                  "athlete": {
+                    "active": true,
+                    "displayName": "Bryson Daily",
+                    "fullName": "Bryson Daily",
+                    "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4879928.png",
+                    "id": "4879928",
+                    "jersey": "13",
+                    "links": [
+                      {
+                        "href": "https://www.espn.com/college-football/player/_/id/4879928/bryson-daily",
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ]
+                      }
+                    ],
+                    "position": {
+                      "abbreviation": "QB"
+                    },
+                    "shortName": "B. Daily",
+                    "team": {
+                      "id": "349"
+                    }
+                  },
+                  "displayValue": "35 YDS",
+                  "team": {
+                    "id": "349"
+                  },
+                  "value": 35.0
+                }
+              ],
+              "name": "passingYards",
+              "shortDisplayName": "PASS"
+            },
+            {
+              "abbreviation": "RYDS",
+              "displayName": "Rushing Leader",
+              "leaders": [
+                {
+                  "athlete": {
+                    "active": true,
+                    "displayName": "Noah Short",
+                    "fullName": "Noah Short",
+                    "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5082142.png",
+                    "id": "5082142",
+                    "jersey": "15",
+                    "links": [
+                      {
+                        "href": "https://www.espn.com/college-football/player/_/id/5082142/noah-short",
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ]
+                      }
+                    ],
+                    "position": {
+                      "abbreviation": "RB"
+                    },
+                    "shortName": "N. Short",
+                    "team": {
+                      "id": "349"
+                    }
+                  },
+                  "displayValue": "8 CAR, 83 YDS, 1 TD",
+                  "team": {
+                    "id": "349"
+                  },
+                  "value": 83.0
+                }
+              ],
+              "name": "rushingYards",
+              "shortDisplayName": "RUSH"
+            },
+            {
+              "abbreviation": "RECYDS",
+              "displayName": "Receiving Leader",
+              "leaders": [
+                {
+                  "athlete": {
+                    "active": true,
+                    "displayName": "Casey Reynolds",
+                    "fullName": "Casey Reynolds",
+                    "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4879965.png",
+                    "id": "4879965",
+                    "jersey": "87",
+                    "links": [
+                      {
+                        "href": "https://www.espn.com/college-football/player/_/id/4879965/casey-reynolds",
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ]
+                      }
+                    ],
+                    "position": {
+                      "abbreviation": "WR"
+                    },
+                    "shortName": "C. Reynolds",
+                    "team": {
+                      "id": "349"
+                    }
+                  },
+                  "displayValue": "1 REC, 22 YDS",
+                  "team": {
+                    "id": "349"
+                  },
+                  "value": 22.0
+                }
+              ],
+              "name": "receivingYards",
+              "shortDisplayName": "REC"
+            }
+          ],
+          "neutralSite": true,
+          "notes": [],
+          "playByPlayAvailable": false,
+          "recent": false,
+          "startDate": "2024-12-14T20:00Z",
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0:00",
+            "isTBDFlex": false,
+            "period": 0,
+            "type": {
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Sat, December 14th at 3:00 PM EST",
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "shortDetail": "12/14 - 3:00 PM EST",
+              "state": "pre"
+            }
+          },
+          "tickets": [
+            {
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/army-west-point-black-knights-football-tickets-fedexfield-12-14-2024--sports-ncaa-football/production/4675281?wsUser=717"
+                },
+                {
+                  "href": "https://www.vividseats.com/fedex-field-tickets/venue/549?wsUser=717"
+                }
+              ],
+              "numberAvailable": 725,
+              "summary": "Tickets as low as $541"
+            }
+          ],
+          "timeValid": true,
+          "type": {
+            "abbreviation": "STD",
+            "id": "1"
+          },
+          "uid": "s:20~l:23~e:401645383~c:401645383",
+          "venue": {
+            "address": {
+              "city": "Landover",
+              "state": "MD"
+            },
+            "fullName": "Northwest Stadium",
+            "id": "3719",
+            "indoor": false
+          }
+        }
+      ],
+      "date": "2024-12-14T20:00Z",
+      "id": "401645383",
+      "links": [
+        {
+          "href": "https://www.espn.com/college-football/game/_/gameId/401645383/navy-army",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        }
+      ],
+      "name": "Navy Midshipmen at Army Black Knights",
+      "season": {
+        "slug": "regular-season",
+        "type": 2,
+        "year": 2024
+      },
+      "shortName": "NAVY VS ARMY",
+      "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Sat, December 14th at 3:00 PM EST",
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "shortDetail": "12/14 - 3:00 PM EST",
+          "state": "pre"
+        }
+      },
+      "uid": "s:20~l:23~e:401645383",
+      "week": {
+        "number": 16
+      }
+    }
+  ],
+  "groups": [
+    "80"
+  ],
+  "leagues": [
+    {
+      "abbreviation": "NCAAF",
+      "calendar": [
+        {
+          "endDate": "2024-12-15T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Week 1",
+              "detail": "Aug 24-Sep 2",
+              "endDate": "2024-09-03T06:59Z",
+              "label": "Week 1",
+              "startDate": "2024-08-24T07:00Z",
+              "value": "1"
+            },
+            {
+              "alternateLabel": "Week 2",
+              "detail": "Sep 3-7",
+              "endDate": "2024-09-08T06:59Z",
+              "label": "Week 2",
+              "startDate": "2024-09-03T07:00Z",
+              "value": "2"
+            },
+            {
+              "alternateLabel": "Week 3",
+              "detail": "Sep 8-14",
+              "endDate": "2024-09-15T06:59Z",
+              "label": "Week 3",
+              "startDate": "2024-09-08T07:00Z",
+              "value": "3"
+            },
+            {
+              "alternateLabel": "Week 4",
+              "detail": "Sep 15-21",
+              "endDate": "2024-09-22T06:59Z",
+              "label": "Week 4",
+              "startDate": "2024-09-15T07:00Z",
+              "value": "4"
+            },
+            {
+              "alternateLabel": "Week 5",
+              "detail": "Sep 22-28",
+              "endDate": "2024-09-29T06:59Z",
+              "label": "Week 5",
+              "startDate": "2024-09-22T07:00Z",
+              "value": "5"
+            },
+            {
+              "alternateLabel": "Week 6",
+              "detail": "Sep 29-Oct 5",
+              "endDate": "2024-10-06T06:59Z",
+              "label": "Week 6",
+              "startDate": "2024-09-29T07:00Z",
+              "value": "6"
+            },
+            {
+              "alternateLabel": "Week 7",
+              "detail": "Oct 6-12",
+              "endDate": "2024-10-13T06:59Z",
+              "label": "Week 7",
+              "startDate": "2024-10-06T07:00Z",
+              "value": "7"
+            },
+            {
+              "alternateLabel": "Week 8",
+              "detail": "Oct 13-19",
+              "endDate": "2024-10-20T06:59Z",
+              "label": "Week 8",
+              "startDate": "2024-10-13T07:00Z",
+              "value": "8"
+            },
+            {
+              "alternateLabel": "Week 9",
+              "detail": "Oct 20-26",
+              "endDate": "2024-10-27T06:59Z",
+              "label": "Week 9",
+              "startDate": "2024-10-20T07:00Z",
+              "value": "9"
+            },
+            {
+              "alternateLabel": "Week 10",
+              "detail": "Oct 27-Nov 2",
+              "endDate": "2024-11-03T06:59Z",
+              "label": "Week 10",
+              "startDate": "2024-10-27T07:00Z",
+              "value": "10"
+            },
+            {
+              "alternateLabel": "Week 11",
+              "detail": "Nov 3-9",
+              "endDate": "2024-11-10T07:59Z",
+              "label": "Week 11",
+              "startDate": "2024-11-03T07:00Z",
+              "value": "11"
+            },
+            {
+              "alternateLabel": "Week 12",
+              "detail": "Nov 10-16",
+              "endDate": "2024-11-17T07:59Z",
+              "label": "Week 12",
+              "startDate": "2024-11-10T08:00Z",
+              "value": "12"
+            },
+            {
+              "alternateLabel": "Week 13",
+              "detail": "Nov 17-23",
+              "endDate": "2024-11-24T07:59Z",
+              "label": "Week 13",
+              "startDate": "2024-11-17T08:00Z",
+              "value": "13"
+            },
+            {
+              "alternateLabel": "Week 14",
+              "detail": "Nov 24-30",
+              "endDate": "2024-12-01T07:59Z",
+              "label": "Week 14",
+              "startDate": "2024-11-24T08:00Z",
+              "value": "14"
+            },
+            {
+              "alternateLabel": "Week 15",
+              "detail": "Dec 1-7",
+              "endDate": "2024-12-08T07:59Z",
+              "label": "Week 15",
+              "startDate": "2024-12-01T08:00Z",
+              "value": "15"
+            },
+            {
+              "alternateLabel": "Week 16",
+              "detail": "Dec 8-14",
+              "endDate": "2024-12-15T07:59Z",
+              "label": "Week 16",
+              "startDate": "2024-12-08T08:00Z",
+              "value": "16"
+            }
+          ],
+          "label": "Regular Season",
+          "startDate": "2024-08-24T07:00Z",
+          "value": "2"
+        },
+        {
+          "endDate": "2025-01-22T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Bowls",
+              "detail": "Dec 14-Jan 21",
+              "endDate": "2025-01-22T07:59Z",
+              "label": "Bowls",
+              "startDate": "2024-12-14T08:00Z",
+              "value": "1"
+            }
+          ],
+          "label": "Postseason",
+          "startDate": "2024-12-15T08:00Z",
+          "value": "3"
+        },
+        {
+          "endDate": "2025-07-01T06:59Z",
+          "entries": [
+            {
+              "alternateLabel": "All-Star",
+              "detail": "Jan 22-Jun 30",
+              "endDate": "2025-07-01T06:59Z",
+              "label": "All-Star",
+              "startDate": "2025-01-22T08:00Z",
+              "value": "1"
+            }
+          ],
+          "label": "Off Season",
+          "startDate": "2025-01-22T08:00Z",
+          "value": "4"
+        }
+      ],
+      "calendarEndDate": "2025-01-22T07:59Z",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2024-07-01T07:00Z",
+      "calendarType": "list",
+      "id": "23",
+      "logos": [
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+          "lastUpdated": "2021-08-03T15:56Z",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+          "lastUpdated": "2021-08-03T15:56Z",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "width": 500
+        }
+      ],
+      "midsizeName": "NCAA Football",
+      "name": "NCAA - Football",
+      "season": {
+        "displayName": "2024",
+        "endDate": "2025-01-22T07:59Z",
+        "startDate": "2024-07-01T07:00Z",
+        "type": {
+          "abbreviation": "reg",
+          "id": "2",
+          "name": "Regular Season",
+          "type": 2
+        },
+        "year": 2024
+      },
+      "slug": "college-football",
+      "uid": "s:20~l:23"
+    }
+  ],
+  "season": {
+    "type": 2,
+    "year": 2024
+  },
+  "week": {
+    "number": 16
+  }
+}

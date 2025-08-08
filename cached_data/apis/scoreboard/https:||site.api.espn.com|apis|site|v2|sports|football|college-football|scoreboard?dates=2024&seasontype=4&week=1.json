@@ -1,0 +1,223 @@
+{
+  "events": [],
+  "leagues": [
+    {
+      "abbreviation": "NCAAF",
+      "calendar": [
+        {
+          "endDate": "2024-12-15T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Week 1",
+              "detail": "Aug 24-Sep 2",
+              "endDate": "2024-09-03T06:59Z",
+              "label": "Week 1",
+              "startDate": "2024-08-24T07:00Z",
+              "value": "1"
+            },
+            {
+              "alternateLabel": "Week 2",
+              "detail": "Sep 3-7",
+              "endDate": "2024-09-08T06:59Z",
+              "label": "Week 2",
+              "startDate": "2024-09-03T07:00Z",
+              "value": "2"
+            },
+            {
+              "alternateLabel": "Week 3",
+              "detail": "Sep 8-14",
+              "endDate": "2024-09-15T06:59Z",
+              "label": "Week 3",
+              "startDate": "2024-09-08T07:00Z",
+              "value": "3"
+            },
+            {
+              "alternateLabel": "Week 4",
+              "detail": "Sep 15-21",
+              "endDate": "2024-09-22T06:59Z",
+              "label": "Week 4",
+              "startDate": "2024-09-15T07:00Z",
+              "value": "4"
+            },
+            {
+              "alternateLabel": "Week 5",
+              "detail": "Sep 22-28",
+              "endDate": "2024-09-29T06:59Z",
+              "label": "Week 5",
+              "startDate": "2024-09-22T07:00Z",
+              "value": "5"
+            },
+            {
+              "alternateLabel": "Week 6",
+              "detail": "Sep 29-Oct 5",
+              "endDate": "2024-10-06T06:59Z",
+              "label": "Week 6",
+              "startDate": "2024-09-29T07:00Z",
+              "value": "6"
+            },
+            {
+              "alternateLabel": "Week 7",
+              "detail": "Oct 6-12",
+              "endDate": "2024-10-13T06:59Z",
+              "label": "Week 7",
+              "startDate": "2024-10-06T07:00Z",
+              "value": "7"
+            },
+            {
+              "alternateLabel": "Week 8",
+              "detail": "Oct 13-19",
+              "endDate": "2024-10-20T06:59Z",
+              "label": "Week 8",
+              "startDate": "2024-10-13T07:00Z",
+              "value": "8"
+            },
+            {
+              "alternateLabel": "Week 9",
+              "detail": "Oct 20-26",
+              "endDate": "2024-10-27T06:59Z",
+              "label": "Week 9",
+              "startDate": "2024-10-20T07:00Z",
+              "value": "9"
+            },
+            {
+              "alternateLabel": "Week 10",
+              "detail": "Oct 27-Nov 2",
+              "endDate": "2024-11-03T06:59Z",
+              "label": "Week 10",
+              "startDate": "2024-10-27T07:00Z",
+              "value": "10"
+            },
+            {
+              "alternateLabel": "Week 11",
+              "detail": "Nov 3-9",
+              "endDate": "2024-11-10T07:59Z",
+              "label": "Week 11",
+              "startDate": "2024-11-03T07:00Z",
+              "value": "11"
+            },
+            {
+              "alternateLabel": "Week 12",
+              "detail": "Nov 10-16",
+              "endDate": "2024-11-17T07:59Z",
+              "label": "Week 12",
+              "startDate": "2024-11-10T08:00Z",
+              "value": "12"
+            },
+            {
+              "alternateLabel": "Week 13",
+              "detail": "Nov 17-23",
+              "endDate": "2024-11-24T07:59Z",
+              "label": "Week 13",
+              "startDate": "2024-11-17T08:00Z",
+              "value": "13"
+            },
+            {
+              "alternateLabel": "Week 14",
+              "detail": "Nov 24-30",
+              "endDate": "2024-12-01T07:59Z",
+              "label": "Week 14",
+              "startDate": "2024-11-24T08:00Z",
+              "value": "14"
+            },
+            {
+              "alternateLabel": "Week 15",
+              "detail": "Dec 1-7",
+              "endDate": "2024-12-08T07:59Z",
+              "label": "Week 15",
+              "startDate": "2024-12-01T08:00Z",
+              "value": "15"
+            },
+            {
+              "alternateLabel": "Week 16",
+              "detail": "Dec 8-14",
+              "endDate": "2024-12-15T07:59Z",
+              "label": "Week 16",
+              "startDate": "2024-12-08T08:00Z",
+              "value": "16"
+            }
+          ],
+          "label": "Regular Season",
+          "startDate": "2024-08-24T07:00Z",
+          "value": "2"
+        },
+        {
+          "endDate": "2025-01-22T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Bowls",
+              "detail": "Dec 14-Jan 21",
+              "endDate": "2025-01-22T07:59Z",
+              "label": "Bowls",
+              "startDate": "2024-12-14T08:00Z",
+              "value": "1"
+            }
+          ],
+          "label": "Postseason",
+          "startDate": "2024-12-15T08:00Z",
+          "value": "3"
+        },
+        {
+          "endDate": "2025-07-01T06:59Z",
+          "entries": [
+            {
+              "alternateLabel": "All-Star",
+              "detail": "Jan 22-Jun 30",
+              "endDate": "2025-07-01T06:59Z",
+              "label": "All-Star",
+              "startDate": "2025-01-22T08:00Z",
+              "value": "1"
+            }
+          ],
+          "label": "Off Season",
+          "startDate": "2025-01-22T08:00Z",
+          "value": "4"
+        }
+      ],
+      "calendarEndDate": "2025-01-22T07:59Z",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2024-07-01T07:00Z",
+      "calendarType": "list",
+      "id": "23",
+      "logos": [
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+          "lastUpdated": "2021-08-03T15:56Z",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+          "lastUpdated": "2021-08-03T15:56Z",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "width": 500
+        }
+      ],
+      "midsizeName": "NCAA Football",
+      "name": "NCAA - Football",
+      "season": {
+        "displayName": "2024",
+        "endDate": "2025-01-22T07:59Z",
+        "startDate": "2024-07-01T07:00Z",
+        "type": {
+          "abbreviation": "reg",
+          "id": "2",
+          "name": "Regular Season",
+          "type": 2
+        },
+        "year": 2024
+      },
+      "slug": "college-football",
+      "uid": "s:20~l:23"
+    }
+  ]
+}

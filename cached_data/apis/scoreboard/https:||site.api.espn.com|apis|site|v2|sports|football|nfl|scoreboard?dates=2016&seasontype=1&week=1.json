@@ -1,0 +1,641 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 0,
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN"
+              ]
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "11",
+              "linescores": [
+                {
+                  "value": 0.0
+                }
+              ],
+              "order": 0,
+              "records": [
+                {
+                  "abbreviation": "Any",
+                  "name": "overall",
+                  "summary": "2-2",
+                  "type": "total"
+                },
+                {
+                  "name": "Home",
+                  "summary": "0-2",
+                  "type": "home"
+                },
+                {
+                  "name": "Road",
+                  "summary": "2-0",
+                  "type": "road"
+                }
+              ],
+              "score": "0",
+              "statistics": [],
+              "team": {
+                "abbreviation": "IND",
+                "alternateColor": "ffffff",
+                "color": "00417E",
+                "displayName": "Indianapolis Colts",
+                "id": "11",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/ind/indianapolis-colts",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/ind",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Indianapolis",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+                "name": "Colts",
+                "shortDisplayName": "Colts",
+                "uid": "s:20~l:28~t:11",
+                "venue": {
+                  "id": "3812"
+                }
+              },
+              "type": "team",
+              "uid": "s:20~l:28~t:11"
+            },
+            {
+              "homeAway": "away",
+              "id": "9",
+              "linescores": [
+                {
+                  "value": 0.0
+                }
+              ],
+              "order": 1,
+              "records": [
+                {
+                  "abbreviation": "Any",
+                  "name": "overall",
+                  "summary": "3-1",
+                  "type": "total"
+                },
+                {
+                  "name": "Home",
+                  "summary": "2-0",
+                  "type": "home"
+                },
+                {
+                  "name": "Road",
+                  "summary": "1-1",
+                  "type": "road"
+                }
+              ],
+              "score": "0",
+              "statistics": [],
+              "team": {
+                "abbreviation": "GB",
+                "alternateColor": "ffb612",
+                "color": "204E32",
+                "displayName": "Green Bay Packers",
+                "id": "9",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/gb/green-bay-packers",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/gb/green-bay-packers",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/gb",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Green Bay",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+                "name": "Packers",
+                "shortDisplayName": "Packers",
+                "uid": "s:20~l:28~t:9",
+                "venue": {
+                  "id": "3798"
+                }
+              },
+              "type": "team",
+              "uid": "s:20~l:28~t:9"
+            }
+          ],
+          "conferenceCompetition": false,
+          "date": "2016-08-08T00:00Z",
+          "format": {
+            "regulation": {
+              "periods": 4
+            }
+          },
+          "geoBroadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "darkLogo": "",
+                "logo": "https://a.espncdn.com/guid/335fd2d2-97b9-336b-81ee-573eb6bdcffc/logos/default.png",
+                "shortName": "ESPN"
+              },
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "headlines": [
+            {
+              "description": "The Hall of Fame game between Green Bay and Indianapolis has been canceled because of poor field conditions, hall President David Baker said Sunday.",
+              "shortLinkText": "Hall of Fame game cancelled for  poor field conditions",
+              "type": "Recap"
+            }
+          ],
+          "id": "400868831",
+          "neutralSite": true,
+          "notes": [
+            {
+              "headline": "HALL OF FAME GAME",
+              "type": "event"
+            }
+          ],
+          "playByPlayAvailable": false,
+          "recent": false,
+          "startDate": "2016-08-08T00:00Z",
+          "status": {
+            "clock": 900.0,
+            "displayClock": "15:00",
+            "isTBDFlex": true,
+            "period": 1,
+            "type": {
+              "completed": false,
+              "description": "Canceled",
+              "detail": "Canceled",
+              "id": "5",
+              "name": "STATUS_CANCELED",
+              "shortDetail": "Canceled",
+              "state": "post"
+            }
+          },
+          "timeValid": true,
+          "type": {
+            "abbreviation": "ALLSTAR",
+            "id": "4"
+          },
+          "uid": "s:20~l:28~e:400868831~c:400868831",
+          "venue": {
+            "address": {
+              "city": "Canton",
+              "state": "OH"
+            },
+            "fullName": "Tom Benson Hall of Fame Stadium",
+            "id": "3718",
+            "indoor": false
+          }
+        }
+      ],
+      "date": "2016-08-08T00:00Z",
+      "id": "400868831",
+      "links": [
+        {
+          "href": "https://www.espn.com/nfl/game/_/gameId/400868831/packers-colts",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nfl/recap?gameId=400868831",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        }
+      ],
+      "name": "Green Bay Packers at Indianapolis Colts",
+      "season": {
+        "slug": "preseason",
+        "type": 1,
+        "year": 2016
+      },
+      "shortName": "GB VS IND",
+      "status": {
+        "clock": 900.0,
+        "displayClock": "15:00",
+        "period": 1,
+        "type": {
+          "completed": false,
+          "description": "Canceled",
+          "detail": "Canceled",
+          "id": "5",
+          "name": "STATUS_CANCELED",
+          "shortDetail": "Canceled",
+          "state": "post"
+        }
+      },
+      "uid": "s:20~l:28~e:400868831",
+      "week": {
+        "number": 1
+      }
+    }
+  ],
+  "leagues": [
+    {
+      "abbreviation": "NFL",
+      "calendar": [
+        {
+          "endDate": "2016-09-06T06:59Z",
+          "entries": [
+            {
+              "alternateLabel": "HOF",
+              "detail": "Aug 3-9",
+              "endDate": "2016-08-10T06:59Z",
+              "label": "Hall of Fame Weekend",
+              "startDate": "2016-08-03T07:00Z",
+              "value": "1"
+            },
+            {
+              "alternateLabel": "Pre Wk 1",
+              "detail": "Aug 10-16",
+              "endDate": "2016-08-17T06:59Z",
+              "label": "Preseason Week 1",
+              "startDate": "2016-08-10T07:00Z",
+              "value": "2"
+            },
+            {
+              "alternateLabel": "Pre Wk 2",
+              "detail": "Aug 17-23",
+              "endDate": "2016-08-24T06:59Z",
+              "label": "Preseason Week 2",
+              "startDate": "2016-08-17T07:00Z",
+              "value": "3"
+            },
+            {
+              "alternateLabel": "Pre Wk 3",
+              "detail": "Aug 24-30",
+              "endDate": "2016-08-31T06:59Z",
+              "label": "Preseason Week 3",
+              "startDate": "2016-08-24T07:00Z",
+              "value": "4"
+            },
+            {
+              "alternateLabel": "Pre Wk 4",
+              "detail": "Aug 31-Sep 5",
+              "endDate": "2016-09-06T06:59Z",
+              "label": "Preseason Week 4",
+              "startDate": "2016-08-31T07:00Z",
+              "value": "5"
+            }
+          ],
+          "label": "Preseason",
+          "startDate": "2016-08-03T07:00Z",
+          "value": "1"
+        },
+        {
+          "endDate": "2017-01-07T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Week 1",
+              "detail": "Sep 6-13",
+              "endDate": "2016-09-14T06:59Z",
+              "label": "Week 1",
+              "startDate": "2016-09-06T07:00Z",
+              "value": "1"
+            },
+            {
+              "alternateLabel": "Week 2",
+              "detail": "Sep 14-20",
+              "endDate": "2016-09-21T06:59Z",
+              "label": "Week 2",
+              "startDate": "2016-09-14T07:00Z",
+              "value": "2"
+            },
+            {
+              "alternateLabel": "Week 3",
+              "detail": "Sep 21-27",
+              "endDate": "2016-09-28T06:59Z",
+              "label": "Week 3",
+              "startDate": "2016-09-21T07:00Z",
+              "value": "3"
+            },
+            {
+              "alternateLabel": "Week 4",
+              "detail": "Sep 28-Oct 4",
+              "endDate": "2016-10-05T06:59Z",
+              "label": "Week 4",
+              "startDate": "2016-09-28T07:00Z",
+              "value": "4"
+            },
+            {
+              "alternateLabel": "Week 5",
+              "detail": "Oct 5-11",
+              "endDate": "2016-10-12T06:59Z",
+              "label": "Week 5",
+              "startDate": "2016-10-05T07:00Z",
+              "value": "5"
+            },
+            {
+              "alternateLabel": "Week 6",
+              "detail": "Oct 12-18",
+              "endDate": "2016-10-19T06:59Z",
+              "label": "Week 6",
+              "startDate": "2016-10-12T07:00Z",
+              "value": "6"
+            },
+            {
+              "alternateLabel": "Week 7",
+              "detail": "Oct 19-25",
+              "endDate": "2016-10-26T06:59Z",
+              "label": "Week 7",
+              "startDate": "2016-10-19T07:00Z",
+              "value": "7"
+            },
+            {
+              "alternateLabel": "Week 8",
+              "detail": "Oct 26-Nov 1",
+              "endDate": "2016-11-02T06:59Z",
+              "label": "Week 8",
+              "startDate": "2016-10-26T07:00Z",
+              "value": "8"
+            },
+            {
+              "alternateLabel": "Week 9",
+              "detail": "Nov 2-8",
+              "endDate": "2016-11-09T07:59Z",
+              "label": "Week 9",
+              "startDate": "2016-11-02T07:00Z",
+              "value": "9"
+            },
+            {
+              "alternateLabel": "Week 10",
+              "detail": "Nov 9-15",
+              "endDate": "2016-11-16T07:59Z",
+              "label": "Week 10",
+              "startDate": "2016-11-09T08:00Z",
+              "value": "10"
+            },
+            {
+              "alternateLabel": "Week 11",
+              "detail": "Nov 16-22",
+              "endDate": "2016-11-23T07:59Z",
+              "label": "Week 11",
+              "startDate": "2016-11-16T08:00Z",
+              "value": "11"
+            },
+            {
+              "alternateLabel": "Week 12",
+              "detail": "Nov 23-29",
+              "endDate": "2016-11-30T07:59Z",
+              "label": "Week 12",
+              "startDate": "2016-11-23T08:00Z",
+              "value": "12"
+            },
+            {
+              "alternateLabel": "Week 13",
+              "detail": "Nov 30-Dec 6",
+              "endDate": "2016-12-07T07:59Z",
+              "label": "Week 13",
+              "startDate": "2016-11-30T08:00Z",
+              "value": "13"
+            },
+            {
+              "alternateLabel": "Week 14",
+              "detail": "Dec 7-13",
+              "endDate": "2016-12-14T07:59Z",
+              "label": "Week 14",
+              "startDate": "2016-12-07T08:00Z",
+              "value": "14"
+            },
+            {
+              "alternateLabel": "Week 15",
+              "detail": "Dec 14-20",
+              "endDate": "2016-12-21T07:59Z",
+              "label": "Week 15",
+              "startDate": "2016-12-14T08:00Z",
+              "value": "15"
+            },
+            {
+              "alternateLabel": "Week 16",
+              "detail": "Dec 21-27",
+              "endDate": "2016-12-28T07:59Z",
+              "label": "Week 16",
+              "startDate": "2016-12-21T08:00Z",
+              "value": "16"
+            },
+            {
+              "alternateLabel": "Week 17",
+              "detail": "Dec 28-Jan 3",
+              "endDate": "2017-01-04T07:59Z",
+              "label": "Week 17",
+              "startDate": "2016-12-28T08:00Z",
+              "value": "17"
+            }
+          ],
+          "label": "Regular Season",
+          "startDate": "2016-09-06T07:00Z",
+          "value": "2"
+        },
+        {
+          "endDate": "2017-02-09T07:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Wild Card",
+              "detail": "Jan 4-10",
+              "endDate": "2017-01-11T07:59Z",
+              "label": "Wild Card",
+              "startDate": "2017-01-04T08:00Z",
+              "value": "1"
+            },
+            {
+              "alternateLabel": "Div Rd",
+              "detail": "Jan 11-17",
+              "endDate": "2017-01-18T07:59Z",
+              "label": "Divisional Round",
+              "startDate": "2017-01-11T08:00Z",
+              "value": "2"
+            },
+            {
+              "alternateLabel": "Conf Champ",
+              "detail": "Jan 18-24",
+              "endDate": "2017-01-25T07:59Z",
+              "label": "Conference Championship",
+              "startDate": "2017-01-18T08:00Z",
+              "value": "3"
+            },
+            {
+              "alternateLabel": "Pro Bowl",
+              "detail": "Jan 25-31",
+              "endDate": "2017-02-01T07:59Z",
+              "label": "Pro Bowl",
+              "startDate": "2017-01-25T08:00Z",
+              "value": "4"
+            },
+            {
+              "alternateLabel": "Super Bowl",
+              "detail": "Feb 1-7",
+              "endDate": "2017-02-08T07:59Z",
+              "label": "Super Bowl",
+              "startDate": "2017-02-01T08:00Z",
+              "value": "5"
+            }
+          ],
+          "label": "Postseason",
+          "startDate": "2017-01-07T08:00Z",
+          "value": "3"
+        },
+        {
+          "endDate": "2017-08-02T06:59Z",
+          "entries": [
+            {
+              "alternateLabel": "Week 1",
+              "detail": "Feb 8-Aug 1",
+              "endDate": "2017-08-02T06:59Z",
+              "label": "Week 1",
+              "startDate": "2017-02-08T08:00Z",
+              "value": "1"
+            }
+          ],
+          "label": "Off Season",
+          "startDate": "2017-02-09T08:00Z",
+          "value": "4"
+        }
+      ],
+      "calendarEndDate": "2017-02-09T07:59Z",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2016-08-03T07:00Z",
+      "calendarType": "list",
+      "id": "28",
+      "logos": [
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+          "lastUpdated": "2018-06-05T12:07Z",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "width": 500
+        }
+      ],
+      "name": "National Football League",
+      "season": {
+        "displayName": "2016",
+        "endDate": "2017-02-09T07:59Z",
+        "startDate": "2016-08-03T07:00Z",
+        "type": {
+          "abbreviation": "reg",
+          "id": "2",
+          "name": "Regular Season",
+          "type": 2
+        },
+        "year": 2016
+      },
+      "slug": "nfl",
+      "uid": "s:20~l:28"
+    }
+  ],
+  "season": {
+    "type": 1,
+    "year": 2016
+  },
+  "week": {
+    "number": 1
+  }
+}

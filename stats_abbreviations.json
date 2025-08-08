@@ -1,0 +1,54 @@
+{
+    "categories": [
+      {
+        "name": "passing",
+        "positions": ["QB"],
+        "stats": ["CMP", "ATT", "YDS", "TD", "INT", "SACKS"]
+      },
+      {
+        "name": "receiving",
+        "positions": ["RB", "FB", "HB", "WR", "TE"],
+        "stats": ["REC", "YDS", "TD", "TGTS"]
+      },
+      {
+        "name": "rushing",
+        "positions": ["QB", "RB", "FB", "HB", "WR", "TE"],
+        "stats": ["CAR", "YDS", "TD"]
+      },
+      {
+        "name": "defensive",
+        "positions": ["OL", "C", "OG", "OT", "R", "DL", "DT", "NT", "DE", "LB", "MLB", "OLB", "DB", "CB", "S", "FS", "SS"],
+        "stats": ["TOT", "SACK", "PD", "QB HTS", "TD"]
+      },
+      {
+        "name": "general",
+        "positions": ["OL", "C", "OG", "OT", "R", "DL", "DT", "NT", "DE", "LB", "MLB", "OLB", "DB", "CB", "S", "FS", "SS", "QB", "RB", "FB", "HB", "WR", "TE"],
+        "stats": ["FUM", "FF", "FR", "REC"]
+      },
+      {
+        "name": "fumbles",
+        "positions": ["OL", "C", "OG", "OT", "R", "DL", "DT", "NT", "DE", "LB", "MLB", "OLB", "DB", "CB", "S", "FS", "SS", "QB", "RB", "FB", "HB", "WR", "TE"],
+        "stats": ["FUM", "REC"]
+      },
+      {
+        "name": "interceptions",
+        "positions": ["DL", "DT", "NT", "DE", "LB", "MLB", "OLB", "DB", "CB", "S", "FS", "SS"],
+        "stats": ["INT"]
+      },
+      {
+        "name": "defensiveInterceptions",
+        "positions": ["DL", "DT", "NT", "DE", "LB", "MLB", "OLB", "DB", "CB", "S", "FS", "SS"],
+        "stats": ["INT"]
+      },
+      {
+        "name": "kicking",
+        "positions": ["K", "PK"],
+        "stats": ["FGM", "FGA", "PTS"]
+      },
+      {
+        "name": "punting",
+        "positions": ["P"],
+        "stats": ["PUNTS", "YDS", "TB", "IN20"]
+      }
+    ]
+  }
