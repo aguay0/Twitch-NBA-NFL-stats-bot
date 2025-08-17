@@ -31,7 +31,6 @@ class Bot(commands.AutoBot):
   
   async def event_oauth_authorized(self, payload: twitchio.authentication.UserTokenPayload) -> None:
         await self.add_token(payload.access_token, payload.refresh_token)
-
         if not payload.user_id:
             return
 
