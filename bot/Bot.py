@@ -5,7 +5,7 @@ from twitchio.ext import commands
 import json
 from dotenv import load_dotenv
 import os
-from bot.CommandsComponent import CommandsComponent
+from CommandsComponent import CommandsComponent
 import logging
 
 load_dotenv()
